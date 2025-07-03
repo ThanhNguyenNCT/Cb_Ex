@@ -4,11 +4,14 @@ public class Role {
 	private int id;
 	private String name;
 	private String description;
-	
+
 	public Role(int id, String name, String discription) {
 		this.id = id;
 		this.name = name;
 		this.description = discription;
+	}
+
+	public Role() {
 	}
 
 	public int getId() {
@@ -34,5 +37,5 @@ public class Role {
 	public void setDescription(String description) {
 		this.description = description;
 	}
-	
+
 }

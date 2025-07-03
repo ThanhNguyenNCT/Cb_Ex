@@ -5,7 +5,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 
 public class MySQLConfig {
-	
+
 	// Database URL, username, and password
 	private static final String url = "jdbc:mysql://localhost:3307/crmapp";
 	private static final String user = "root";

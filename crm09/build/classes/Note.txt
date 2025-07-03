@@ -33,7 +33,10 @@ với mô hình dữ liệu và trả về kết quả cho người dùng. Và c
    
    -hoàn thành
    - chuyển mã hóa, tìm hiểu mã hóa bảo mật
-   phân quyền
+   phân quyền BT VỀ NHÀ
+   
+   
+   - cach luu password bay giờ
    
    
    
